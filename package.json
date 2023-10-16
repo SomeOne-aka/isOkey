@@ -1,10 +1,10 @@
 {
   "name": "isokey",
   "version": "1.0.0",
-  "description": "true or false maker",
+  "description": "returns randomly true or false",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/SomeOne-aka/isOkey/issues"
   },
-  "homepage": "https://github.com/SomeOne-aka/isOkey#readme"
+  "homepage": "https://github.com/SomeOne-aka/isOkey#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
