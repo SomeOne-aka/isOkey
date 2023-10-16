@@ -1,0 +1,26 @@
+{
+  "name": "isokey",
+  "version": "1.0.0",
+  "description": "true or false maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SomeOne-aka/isOkey.git"
+  },
+  "keywords": [
+    "ok",
+    "true",
+    "false",
+    "simple",
+    "beginner"
+  ],
+  "author": "yassine1995",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SomeOne-aka/isOkey/issues"
+  },
+  "homepage": "https://github.com/SomeOne-aka/isOkey#readme"
+}
